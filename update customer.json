@@ -1,0 +1,69 @@
+{
+    "CommandID": "GUID-1234",
+    "Sender": "Salesforce",
+    "Receiver": "Dynamics SCM",
+    "CommandType": "Update customer",
+    "Reference": "REF-5678",
+    "CreatedOn": "2024-12-11T14:30:00Z",
+    "Version":"v1.0.0",
+    "Payload": {    
+      "name": "John Doe",
+      "custAccount": "AA-911",
+      "custGroupId": "C001",
+      "currencyCode": "USD",
+      "paymTermId": "NET30",
+      "paymMode": "BANK",
+      "vatNum": "VAT123456",
+      "dimensionValueBusinessUnit": "001",
+      "dimensionValueCostCenter": "007",
+      "address": {
+        "addressName": "Main Office",
+        "city": "New York",
+        "street": "5th Avenue updated",
+        "streetNumber": "123",
+        "countryRegionId": "USA",
+        "state": "NY"
+      },
+      "contactInfoLines": [
+        {
+          "locationName": "Email address",
+          "locator": "john.doe@example.com",
+          "typeStr": "Email address",
+          "isPrimary": true
+        },
+        {
+          "locationName": "Phone",
+          "locator": "+1234567890",
+          "typeStr": "Phone",
+          "isPrimary": false
+        }
+      ]
+    },
+    "Schema": {
+        "name": "string",
+        "custAccount": "string",
+        "custGroupId": "string",
+        "currencyCode": "string",
+        "paymTermId": "string",
+        "paymMode": "string",
+        "vatNum": "string",
+        "dimensionValueBusinessUnit": "string",
+        "dimensionValueCostCenter": "string",
+        "address": {
+            "addressName": "string",
+            "city": "string",
+            "street": "string",
+            "streetNumber": "string",
+            "countryRegionId": "string",
+            "state": "string"
+        },
+        "contactInfoLines": [
+            {
+                "locationName": "string",
+                "locator": "string",
+                "typeStr": "string",
+                "isPrimary": "boolean"
+            }
+        ]
+    }
+}

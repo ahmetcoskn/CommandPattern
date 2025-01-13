@@ -1,0 +1,15 @@
+{
+    "CommandID": "GUID-1234",
+    "Sender": "Salesforce",
+    "Receiver": "Dynamics SCM",
+    "CommandType": "Create customer",
+    "Reference": "REF-5678",
+    "CreatedOn": "2024-12-11T14:30:00Z",
+    "Version":"v1.0.0",
+    "Payload": {         
+      "custAccount": "AA-911"      
+    },
+    "Schema": {        
+        "custAccount": "string"        
+    }
+}

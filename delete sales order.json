@@ -1,0 +1,17 @@
+{
+    "CommandID": "GUID-1234",
+    "Sender": "Salesforce",
+    "Receiver": "DynamicsFSCM",
+    "CommandType": "Delete sales order",
+    "Reference": "REF-5678",
+    "CreatedOn": "2024-12-11T14:30:00Z",
+    "Version": "v1.0.0",
+    "Payload": {
+        "custAccount": "AA-1",
+        "externalOrderNumber": "a115q000000qiyHAAQ"
+    },
+    "Schema": {
+        "custAccount": "string",
+        "externalOrderNumber": "string"
+    }
+}

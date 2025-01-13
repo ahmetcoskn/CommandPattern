@@ -1,0 +1,68 @@
+{
+    "CommandID": "GUID-1234",
+    "Sender": "Salesforce",
+    "Receiver": "DynamicsFSCM",
+    "CommandType": "Create sales order",
+    "Reference": "REF-5678",
+    "CreatedOn": "2024-12-11T14:30:00Z",
+    "Version": "v1.0.0",
+    "Payload": {
+        "custAccount": "AA-1",
+        "externalOrderNumber": "a115q000000qiyHAAQ",
+        "orderItems": [
+            {
+                "lineQuantity": 1,
+                "linePrice": 11,
+                "itemId": "D0001",
+                "lineDescription": "M0001",
+                "itemDiscounts": [
+                    {
+                        "percentage": null,
+                        "netPrice": 0.3225806452,
+                        "grossPrice": null,
+                        "description": "Abzug für taggenaue Aktivierung",
+                        "code": "a0z5q000002i8D3AAI"
+                    },
+                    {
+                        "percentage": 20.0000000000,
+                        "netPrice": 0.335483871,
+                        "grossPrice": null,
+                        "description": "Kundenrabatt 20.00%",
+                        "code": "a0z5q000002i8D4AAI"
+                    }
+                ]
+            },
+            {
+                "lineQuantity": 2,
+                "linePrice": 22,
+                "itemId": "D0001"
+            },
+            {
+                "lineQuantity": 3,
+                "linePrice": 33,
+                "itemId": "D0001"
+            }
+        ]
+    },
+    "Schema": {
+        "custAccount": "string",
+        "externalOrderNumber": "string",
+        "orderItems": [
+            {
+                "lineQuantity": "integer",
+                "linePrice": "number",
+                "itemId": "string",
+                "lineDescription": "string",
+                "itemDiscounts": [
+                    {
+                        "percentage": "number",
+                        "netPrice": "number",
+                        "grossPrice": "number",
+                        "description": "string",
+                        "code": "string"
+                    }
+                ]
+            }
+        ]
+    }
+}
