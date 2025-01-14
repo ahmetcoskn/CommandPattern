@@ -26,7 +26,7 @@
         "itemDiscounts": [{
             "id": "208be674-1266-4750-99a0-bdc84220c98f",
             "code": "a0z5q000002i8D7AAI",
-            "description": "Abzug für taggenaue Aktivierung",
+            "description": "Abzug fÃ¼r taggenaue Aktivierung",
             "percentage": null,
             "netPrice": 0.2419354839,
             "vat": 0.00,
@@ -64,7 +64,7 @@
         "itemDiscounts": [{
             "id": "5450add0-8dae-4693-b30e-7f622cc323c7",
             "code": "a0z5q000002i8DDAAY",
-            "description": "Abzug für taggenaue Aktivierung",
+            "description": "Abzug fÃ¼r taggenaue Aktivierung",
             "percentage": null,
             "netPrice": 0.2016129032,
             "vat": 0.00,
@@ -102,7 +102,7 @@
         "itemDiscounts": [{
             "id": "ec4aa26e-1a54-4897-b374-5011a97ee152",
             "code": "a0z5q000002i8D9AAI",
-            "description": "Abzug für taggenaue Aktivierung",
+            "description": "Abzug fÃ¼r taggenaue Aktivierung",
             "percentage": null,
             "netPrice": 0.2419354839,
             "vat": 0.00,
@@ -140,7 +140,7 @@
         "itemDiscounts": [{
             "id": "fd778421-69a8-4a4a-ae67-40712af285a4",
             "code": "a0z5q000002i8D3AAI",
-            "description": "Abzug für taggenaue Aktivierung",
+            "description": "Abzug fÃ¼r taggenaue Aktivierung",
             "percentage": null,
             "netPrice": 0.3225806452,
             "vat": 0.00,
@@ -178,7 +178,7 @@
         "itemDiscounts": [{
             "id": "2e52a902-5d22-4065-88b6-b1183883ec5a",
             "code": "a0z5q000002i8DBAAY",
-            "description": "Abzug für taggenaue Aktivierung",
+            "description": "Abzug fÃ¼r taggenaue Aktivierung",
             "percentage": null,
             "netPrice": 0.2419354839,
             "vat": 0.00,
@@ -216,7 +216,7 @@
         "itemDiscounts": [{
             "id": "2469b51b-2321-4508-9f15-99be0049b1ef",
             "code": "a0z5q000002i8D5AAI",
-            "description": "Abzug für taggenaue Aktivierung",
+            "description": "Abzug fÃ¼r taggenaue Aktivierung",
             "percentage": null,
             "netPrice": 0.1612903226,
             "vat": 0.00,
