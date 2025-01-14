@@ -1,0 +1,211 @@
+{
+    "shopOrderReference": "a115q000000qiyHAAQ",
+    "shopOrderDate": "2024-08-07 01:00:11",
+    "paymentProfileId": "077deea5-130d-4e55-949a-7b295610f684",
+    "orderItems": [{
+        "vatPrice": null,
+        "vatCountry": null,
+        "vatCode": "A5",
+        "unitPrice": 2.00,
+        "sku": "1001",
+        "quantity": 1,
+        "position": 1,
+        "orderItemType": "SERVICE",
+        "netPrice": null,
+        "itemDiscounts": [{
+            "percentage": null,
+            "netPrice": 0.3225806452,
+            "grossPrice": null,
+            "description": "Abzug für taggenaue Aktivierung",
+            "code": "a0z5q000002i8D3AAI"
+        }, {
+            "percentage": 20.0000000000,
+            "netPrice": 0.335483871,
+            "grossPrice": null,
+            "description": "Kundenrabatt 20.00%",
+            "code": "a0z5q000002i8D4AAI"
+        }],
+        "invoiceItemSubscriptionStart": "2024-08-06",
+        "invoiceItemSubscriptionEnd": "2024-08-31",
+        "grossPrice": null,
+        "descriptionTitle": "Mileage",
+        "additionalDetails": [{
+            "shopProductItem": "W1V5H2FZ5RN287053",
+            "productItemDiscount2": 0.3225806452,
+            "productItemDiscount1": 0.335483871,
+            "orderCreationDate": "2024-08-06",
+            "invoiceStartDate": "2024-08-06"
+        }]
+    }, {
+        "vatPrice": null,
+        "vatCountry": null,
+        "vatCode": "A5",
+        "unitPrice": 1.00,
+        "sku": "1002",
+        "quantity": 1,
+        "position": 2,
+        "orderItemType": "SERVICE",
+        "netPrice": null,
+        "itemDiscounts": [{
+            "percentage": null,
+            "netPrice": 0.1612903226,
+            "grossPrice": null,
+            "description": "Abzug für taggenaue Aktivierung",
+            "code": "a0z5q000002i8D5AAI"
+        }, {
+            "percentage": 20.0000000000,
+            "netPrice": 0.1677419355,
+            "grossPrice": null,
+            "description": "Kundenrabatt 20.00%",
+            "code": "a0z5q000002i8D6AAI"
+        }],
+        "invoiceItemSubscriptionStart": "2024-08-06",
+        "invoiceItemSubscriptionEnd": "2024-08-31",
+        "grossPrice": null,
+        "descriptionTitle": "Ignition status",
+        "additionalDetails": [{
+            "shopProductItem": "W1V5H2FZ5RN287053",
+            "productItemDiscount2": 0.1612903226,
+            "productItemDiscount1": 0.1677419355,
+            "orderCreationDate": "2024-08-06",
+            "invoiceStartDate": "2024-08-06"
+        }]
+    }, {
+        "vatPrice": null,
+        "vatCountry": null,
+        "vatCode": "A5",
+        "unitPrice": 1.50,
+        "sku": "1003",
+        "quantity": 1,
+        "position": 3,
+        "orderItemType": "SERVICE",
+        "netPrice": null,
+        "itemDiscounts": [{
+            "percentage": null,
+            "netPrice": 0.2419354839,
+            "grossPrice": null,
+            "description": "Abzug für taggenaue Aktivierung",
+            "code": "a0z5q000002i8D7AAI"
+        }, {
+            "percentage": 20.0000000000,
+            "netPrice": 0.2516129032,
+            "grossPrice": null,
+            "description": "Kundenrabatt 20.00%",
+            "code": "a0z5q000002i8D8AAI"
+        }],
+        "invoiceItemSubscriptionStart": "2024-08-06",
+        "invoiceItemSubscriptionEnd": "2024-08-31",
+        "grossPrice": null,
+        "descriptionTitle": "Fuel and consumption data",
+        "additionalDetails": [{
+            "shopProductItem": "W1V5H2FZ5RN287053",
+            "productItemDiscount2": 0.2419354839,
+            "productItemDiscount1": 0.2516129032,
+            "orderCreationDate": "2024-08-06",
+            "invoiceStartDate": "2024-08-06"
+        }]
+    }, {
+        "vatPrice": null,
+        "vatCountry": null,
+        "vatCode": "A5",
+        "unitPrice": 1.50,
+        "sku": "1005",
+        "quantity": 1,
+        "position": 4,
+        "orderItemType": "SERVICE",
+        "netPrice": null,
+        "itemDiscounts": [{
+            "percentage": null,
+            "netPrice": 0.2419354839,
+            "grossPrice": null,
+            "description": "Abzug für taggenaue Aktivierung",
+            "code": "a0z5q000002i8D9AAI"
+        }, {
+            "percentage": 20.0000000000,
+            "netPrice": 0.2516129032,
+            "grossPrice": null,
+            "description": "Kundenrabatt 20.00%",
+            "code": "a0z5q000002i8DAAAY"
+        }],
+        "invoiceItemSubscriptionStart": "2024-08-06",
+        "invoiceItemSubscriptionEnd": "2024-08-31",
+        "grossPrice": null,
+        "descriptionTitle": "Position Data 120",
+        "additionalDetails": [{
+            "shopProductItem": "W1V5H2FZ5RN287053",
+            "productItemDiscount2": 0.2419354839,
+            "productItemDiscount1": 0.2516129032,
+            "orderCreationDate": "2024-08-06",
+            "invoiceStartDate": "2024-08-06"
+        }]
+    }, {
+        "vatPrice": null,
+        "vatCountry": null,
+        "vatCode": "A5",
+        "unitPrice": 1.50,
+        "sku": "1006",
+        "quantity": 1,
+        "position": 5,
+        "orderItemType": "SERVICE",
+        "netPrice": null,
+        "itemDiscounts": [{
+            "percentage": null,
+            "netPrice": 0.2419354839,
+            "grossPrice": null,
+            "description": "Abzug für taggenaue Aktivierung",
+            "code": "a0z5q000002i8DBAAY"
+        }, {
+            "percentage": 20.0000000000,
+            "netPrice": 0.2516129032,
+            "grossPrice": null,
+            "description": "Kundenrabatt 20.00%",
+            "code": "a0z5q000002i8DCAAY"
+        }],
+        "invoiceItemSubscriptionStart": "2024-08-06",
+        "invoiceItemSubscriptionEnd": "2024-08-31",
+        "grossPrice": null,
+        "descriptionTitle": "Vehicle health data",
+        "additionalDetails": [{
+            "shopProductItem": "W1V5H2FZ5RN287053",
+            "productItemDiscount2": 0.2419354839,
+            "productItemDiscount1": 0.2516129032,
+            "orderCreationDate": "2024-08-06",
+            "invoiceStartDate": "2024-08-06"
+        }]
+    }, {
+        "vatPrice": null,
+        "vatCountry": null,
+        "vatCode": "A5",
+        "unitPrice": 1.25,
+        "sku": "1014",
+        "quantity": 1,
+        "position": 6,
+        "orderItemType": "SERVICE",
+        "netPrice": null,
+        "itemDiscounts": [{
+            "percentage": null,
+            "netPrice": 0.2016129032,
+            "grossPrice": null,
+            "description": "Abzug für taggenaue Aktivierung",
+            "code": "a0z5q000002i8DDAAY"
+        }, {
+            "percentage": 20.0000000000,
+            "netPrice": 0.2096774194,
+            "grossPrice": null,
+            "description": "Kundenrabatt 20.00%",
+            "code": "a0z5q000002i8DEAAY"
+        }],
+        "invoiceItemSubscriptionStart": "2024-08-06",
+        "invoiceItemSubscriptionEnd": "2024-08-31",
+        "grossPrice": null,
+        "descriptionTitle": "Driving behaviour data",
+        "additionalDetails": [{
+            "shopProductItem": "W1V5H2FZ5RN287053",
+            "productItemDiscount2": 0.2016129032,
+            "productItemDiscount1": 0.2096774194,
+            "orderCreationDate": "2024-08-06",
+            "invoiceStartDate": "2024-08-06"
+        }]
+    }],
+    "currency": "EUR"
+}

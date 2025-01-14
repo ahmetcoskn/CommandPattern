@@ -1,0 +1,38 @@
+{
+  "whtText": "",
+    "whtRate": "",
+    "whtExemptionStart": "",
+    "whtExemptionEnd": "",
+    "whtApplied": "",
+    "username": "0015q00000J6eGYAAZ",
+    "tradingPartnerId": "3992",
+    "title": "",
+    "taxCode": "C1095800001",
+    "subsidiaryNumber": "",
+    "status": "ACTIVE",
+    "role": "CORPORATE",
+    "phone": "",
+    "name": "Mercedes-Benz Malaysia Sdn. Bhd.",
+    "languageCode": "en",
+    "invoiceEmailAddress": "mbm_3992_00003@bscs.basware.com",
+    "Id": "",
+    "group": "NORMAL",
+    "emailAddress": "",
+    "alternativeInvoiceRecipient": "",
+    "addresses": [{
+        "zipCode": "40150",
+        "type": "BILLING",
+        "street": "Jalan Jurubina",
+        "houseNumber": "5 U1/18",
+        "countryCode": "MY",
+        "city": "Shah Alam, Selangor"
+    }, {
+        "zipCode": "47180",
+        "type": "PRIMARY",
+        "street": "Jalan BK",
+        "houseNumber": "1/13 16a",
+        "countryCode": "MY",
+        "city": "Puchong"
+    }]
+}
+
